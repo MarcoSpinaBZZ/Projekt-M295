@@ -27,22 +27,22 @@ let tasks = [
 ]
 
 // show all tasks, ähnlich wie bei bibliothek.js
-export function findAllTasks () {
+function findAllTasks () {
   return tasks
 }
 
 // create task, ähnlich wie bei bibliothek.js
-export function create (task) {
+function create (task) {
   tasks = [...tasks, task]
 }
 
 // show one task, ähnlich wie bei bibliothek.js
-export function showOneTask (id) {
+function showOneTask (id) {
   return tasks.find((t) => t.id === id)
 }
 
 // change tasks, ähnlich wie bei bibliothek.js
-export function change (task) {
+function change (task) {
   tasks = tasks.map((t) => t.id === task.id ? task : t)
   tasks = tasks.map((t) => {
     if (t.id === task.id) {
@@ -54,6 +54,14 @@ export function change (task) {
 }
 
 // delete tasks, ähnlich wie bei bibliothek.js
-export function remove (id) {
+function remove (id) {
   tasks = tasks.filter((t) => t.id !== id)
+}
+
+module.exports = {
+  remove,
+  change,
+  showOneTask,
+  create,
+  findAllTasks
 }
