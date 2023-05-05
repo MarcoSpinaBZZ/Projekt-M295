@@ -1,0 +1,119 @@
+commit 40d4996cf1ef1d8779550673ffb184aadb71ab08
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:51:52 2023 +0000
+
+    add Testfälle md erstellt
+
+commit 798d23287d259a11a871f1b17372d2011c77bb6d
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:50:22 2023 +0000
+
+    add README file fertig
+
+commit 0d436542c1706d554e69d31dcc37df31ebf1a767
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:44:06 2023 +0000
+
+    add README file erstes design
+
+commit 7d0286c2077e6b49085db8e72498f0047c56ad87
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:42:50 2023 +0000
+
+    add comments hinzugefügt
+
+commit d036142716a02f966bf3a1fdf42bc7efdee4280f
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:30:44 2023 +0000
+
+    add verify in jedem Endpunkt hinzugefügt
+
+commit 5b65308a51bea043eea0d64c94244bb9ce046f55
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:28:15 2023 +0000
+
+    add export geändert in module.exports
+
+commit 5a473cc48b4b7386cedfda043109e60795a2acab
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:27:30 2023 +0000
+
+    add beiden express-session hinzugefügt
+
+commit 57ac27c2b3c4c69c62f92e728cfd0cd0aac94b04
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:26:39 2023 +0000
+
+    add index.js erstellt um alles zu zentralisieren
+
+commit a495c13c56693e734cd5bb17fe32bd47b7dcc76d
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:26:00 2023 +0000
+
+    add login.js erstellt mit login, verifiy & logout
+
+commit a4216ce5c8557bd85281533d5e28c0e44f404a33
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 14:25:03 2023 +0000
+
+    add index.js um alles zu zentralisieren
+
+commit c6acef18db46fe17fef9831c1266548f307a767e
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 13:50:30 2023 +0000
+
+    add eslint für Coderichtlinien in Authent-folder
+
+commit 1e50b06a9536f96ca851b994af95e3424941f245
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 11:57:56 2023 +0000
+
+    add package-lock vom Tasks folder erstellt
+
+commit e133a6a45c6d3f71b22f5e8694d43d7ecdcf7399
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 11:57:32 2023 +0000
+
+    add package.json vom Tasks folder erstellt
+
+commit 71e7dbde975ba37b5d14767bc686fcb882dc68ff
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 11:57:04 2023 +0000
+
+    add tasks mit allen gewünschten Anforderungen
+
+commit 84a55a1013a71e4b74f87f7aef296ca8870e5f86
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 11:56:15 2023 +0000
+
+    add task_list mit allen geforderten functions
+
+commit b087cf5be4c41347b20c75a7b55af28e947e84fa
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 11:54:51 2023 +0000
+
+    add eslint für Coderichtlinien
+
+commit 6c2c7f45536d5e303fcd46c0f39e3fa38d0896cb
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 09:36:37 2023 +0200
+
+    add create .gitignore
+
+commit cd91f507ee8e1b75fd452fe3ce78025eb36ec828
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 09:00:08 2023 +0200
+
+    add create Authentifizierung folder
+
+commit e192975db79456012da49012b9c54c67447427f9
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 08:59:47 2023 +0200
+
+    add create Tasks folder
+
+commit bdd7e5613500741414acb2ebd9a76391405e0163
+Author: MarcoSpinaBZZ <spinam@bzz.ch>
+Date:   Fri May 5 08:59:01 2023 +0200
+
+    devcontainer
