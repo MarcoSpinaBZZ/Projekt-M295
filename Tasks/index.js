@@ -1,4 +1,4 @@
-// alles const machen inspiriert von Sami Hindi
+// alles const ändern ist inspiriert von Sami Hindi
 const express = require('express')
 const cors = require('cors')
 const session = require('express-session')
